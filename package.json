@@ -1,0 +1,27 @@
+{
+    "author": "ebay@monlynx.de",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test1",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "test1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "28083391-0a0e-4e52-a3fd-a7da7914b55b",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
